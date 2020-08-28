@@ -13,6 +13,8 @@ a presentation in eccv_2020 workshop ï¼ˆAssistive Computer Vision and Roboticsï¼
 for comparison of multiple-functions
 a room for multiple-functions, for example, a bedroom for working
 
-for comparison of multiple-room layout
+for comparison of multiple-room layout1
 a single model for multiple-room layout service1(For Comparison) (Bedroom + Cloakroom)
 
+for comparison of multiple-room layout2
+a single model for multiple-room layout service1(For Comparison) (Bedroom + Step in Cloakroom)
