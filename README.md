@@ -18,3 +18,24 @@ a single model for multiple-room layout service1(For Comparison) (Bedroom + Cloa
 
 for comparison of multiple-room layout2
 a single model for multiple-room layout service1(For Comparison) (Bedroom + Step in Cloakroom)
+
+for comparison of MRoom3-Layout 
+a single model for multiple-room layout service1(For Comparison)(Bedroom + Step in Cloakroom + Working)
+
+for comparison of MRoom4-Layout
+a single model for multiple-room layout service1(For Comparison)(Princess-Room)
+
+for comparison of MRoom5-Layout
+a single model for multiple-room layout service1(For Comparison)(Bedroom + Opening CloakRoom + Working)
+
+for comaprison of MRoom6-Layout 
+a single model for multiple-room layout service1(For Comparison)(BedRoom + Opening ClockRoom + Dressing Desk)
+
+for comparison of MRoom7-Layout
+a single model for multiple-room layout service1(For Comparison)(BedRoom + Opening ClockRoom)
+
+for comparison of MRoom8-Layout
+a single model for multiple-room layout service1(For Comparison)(Bedroom + Working + Leisure)
+
+A singe model is able to give layout for
+(multiple-functions + multiple-room layout1 + multiple-room layout2 + MRoom3-Layout + MRoom4-Layout + MRoom5-Layout + MRoom6-Layout + MRoom7-Layout + MRoom8-Layout)
