@@ -42,3 +42,6 @@ A singe model is able to give layout for
 
 for comparison of study room
 (study-compare1/study_tea-leisure) all the three service(kujiale/sanweijia/tangping) do not contain furiture layout for this multiple-function, therefore, we only give demmo for our service 
+
+for comparison of study room
+(study-compare1/study_twins) 
