@@ -39,3 +39,6 @@ a single model for multiple-room layout service1(For Comparison)(Bedroom + Worki
 
 A singe model is able to give layout for
 (multiple-functions + multiple-room layout1 + multiple-room layout2 + MRoom3-Layout + MRoom4-Layout + MRoom5-Layout + MRoom6-Layout + MRoom7-Layout + MRoom8-Layout)
+
+for comparison of study room
+(study-compare1/study_tea-leisure) all the three service(kujiale/sanweijia/tangping) do not contain furiture layout for this multiple-function, therefore, we only give demmo for our service 
