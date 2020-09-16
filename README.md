@@ -45,3 +45,6 @@ for comparison of study room
 
 for comparison of study room
 (study-compare1/study_twins) 
+
+for comparison of study room
+(study-compare1/U-shape-layout) 
