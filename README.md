@@ -48,3 +48,7 @@ for comparison of study room
 
 for comparison of study room
 (study-compare3/U-shape-layout) 
+
+on the service end, a single model is able to give service for at least 9 common types of different layout using different lables(multiple-functions + multiple-room layout1 + multiple-room layout2 + MRoom3-Layout + MRoom4-Layout + MRoom5-Layout + MRoom6-Layout + MRoom7-Layout + MRoom8-Layout) including(cloackroom, bedroom, childroom, boyroom,girlroom)
+
+on the service end, a single model ia able to give service for at least 6 common type of different layout using different labels(including L-shape tatami-room, tea-room, study-room, study-twins room, study-U-shape layout), other layout such as U-shape tatami, storage-tatami and et al will be supported by the same model
