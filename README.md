@@ -44,7 +44,7 @@ for comparison of study room
 (study-compare1/study_tea-leisure) all the three service(kujiale/sanweijia/tangping) do not contain furiture layout for this multiple-function, therefore, we only give demmo for our service 
 
 for comparison of study room
-(study-compare1/study_twins) 
+(study-compare2/study_twins) 
 
 for comparison of study room
-(study-compare1/U-shape-layout) 
+(study-compare3/U-shape-layout) 
