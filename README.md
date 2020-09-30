@@ -52,3 +52,5 @@ for comparison of study room
 on the service end, a single model is able to give service for at least 9 common types of different layout using different lables(multiple-functions + multiple-room layout1 + multiple-room layout2 + MRoom3-Layout + MRoom4-Layout + MRoom5-Layout + MRoom6-Layout + MRoom7-Layout + MRoom8-Layout) including(cloackroom, bedroom, childroom, boyroom,girlroom)
 
 on the service end, a single model ia able to give service for at least 8 common type of different layout using different labels(including L-shape tatami-room, tea-room, study-room, study-twins room, study-U-shape layout, tatami-stortage1-middle-room, tatami-storatege2-upper-room)
+
+on the rservice ned, the classical1 layout for bathroom is represeted in bathroom1 including (rectangle-room， square-room, strange shape rooms)
