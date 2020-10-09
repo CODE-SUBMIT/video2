@@ -56,3 +56,18 @@ on the service end, a single model ia able to give service for at least 8 common
 on the service end, the classical1 layout for bathroom is represeted in bathroom1 including (rectangle-room， square-room, strange shape rooms)
 
 on the service end, the classical2 layout for bathroom is represeted in bathroom2 including (rectangle-room， square-room, strange shape rooms)
+
+on the service end, the toliet_wash_desk_shower layout for bathroom is represeted in bathroom3 including (rectangle-room， square-room, strange shape rooms)
+
+on the service end, the bathhub_shower_toliet_desk layout for bathroom is represeted in bathroom4 including (rectangle-room， square-room, strange shape rooms)
+
+on the service end, the bathhub_wash_toliet_desk layout for bathroom is represeted in bathroom5 including (rectangle-room， square-room, strange shape rooms)
+
+on the service end, the bathhub_shower_toliet_desk layout for bathroom is represeted in bathroom6 including (rectangle-room， square-room, strange shape rooms)
+
+on the service end, the multiple-room1 layout for bathroom is represeted in bathroom7 including (rectangle-room， square-room, strange shape rooms), and comparion with kujiale, sanweijia,tangping is represented
+
+on the service end, the multiple-room2 layout for bathroom is represeted in bathroom8 including (rectangle-room， square-room, strange shape rooms), and comparion with kujiale, sanweijia,tangping is represented
+
+on the service end, the multiple-room3 layout for bathroom is represeted in bathroom9 including (rectangle-room， square-room, strange shape rooms), and comparion with kujiale, sanweijia,tangping is represented
+
