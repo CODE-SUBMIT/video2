@@ -71,3 +71,4 @@ on the service end, the multiple-room2 layout for bathroom is represeted in bath
 
 on the service end, the multiple-room3 layout for bathroom is represeted in bathroom9 including (rectangle-room， square-room, strange shape rooms), and comparion with kujiale, sanweijia,tangping is represented
 
+a single model is applied for 9 different types of layout for bathroom (according to the area of the room, individual needs) is represented.
